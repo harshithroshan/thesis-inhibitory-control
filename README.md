@@ -46,5 +46,5 @@ Pilot complete; main study in preparation.
 
 ## Links
 
-- [Project page](https://harshithroshankrishnakumarug2023-ops.github.io/harshithroshan.github.io/research/childhood-maltreatment-inhibitory-control/)
-- [Website](https://harshithroshankrishnakumarug2023-ops.github.io/harshithroshan.github.io/)
+- [Project page](https://harshithroshan.github.io/research/childhood-maltreatment-inhibitory-control/)
+- [Website](https://harshithroshan.github.io/)
